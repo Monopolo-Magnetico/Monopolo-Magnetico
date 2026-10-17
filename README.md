@@ -54,7 +54,7 @@ Para esto, Python y Rust han sido mis principales herramientas.
 
 ## Datos curiosos
 
-- Me encantan los árboles y las plantas. El reino Plantae en general.
+- Me encantan los bosques, los árboles y las plantas. El reino Plantae en general me parece maravilloso.
 - Me apasionan los videojuegos y su desarrollo.
 - Soy estudiante de mandarín.
 
@@ -62,17 +62,17 @@ Para esto, Python y Rust han sido mis principales herramientas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/davidfernandezbrito/])
 [![Correo](https://img.shields.io/badge/Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:[david.fernandezbrito01@gmail.com])
-[![Portafolio](https://img.shields.io/badge/Portafolio-0A0A0A?style=flat&logo=firefox&logoColor=white)]([https://monopolo-magnetico.github.io/Portafolio_David_Fernandez_Brito/])
+[![Portafolio](https://img.shields.io/badge/Portafolio-222222?style=flat&logo=githubpages&logoColor=white)]([https://monopolo-magnetico.github.io/Portafolio_David_Fernandez_Brito/])
 
 Si algo de lo anterior te suena interesante, escríbeme para que hablemos con lujo de detalle :) 
 
 
 ```
-    .o0O0o.              ^                    .o0O0o.                    ^
-  .o0OO0OO0o.           /|\                 .o0OO0OO0o.                 /|\
- o0OO0OO0OO0o          /_|_\               o0OO0OO0OO0o                /_|_\
-  'o0OO0OO0o'         /__|__\               'o0OO0OO0o'               /__|__\
-      | |            /___|___\                  | |                  /___|___\
-      | |               | |                     | |                     | |
-______| |_______________| |_____________________| |_____________________| |______________
+    .o0O0o.              ^                    .o0O0o.                    ^                     .o0O0o.                    ^
+  .o0OO0OO0o.           /|\                 .o0OO0OO0o.                 /|\                  .o0OO0OO0o.                 /|\
+ o0OO0OO0OO0o          /_|_\               o0OO0OO0OO0o                /_|_\                o0OO0OO0OO0o                /_|_\
+  'o0OO0OO0o'         /__|__\               'o0OO0OO0o'               /__|__\                'o0OO0OO0o'               /__|__\
+      | |            /___|___\                  | |                  /___|___\                   | |                  /___|___\
+      | |               | |                     | |                     | |                      | |                     | |
+______| |_______________| |_____________________| |_____________________| |______________________| |_____________________| |______________
 ```
