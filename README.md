@@ -60,9 +60,9 @@ Para esto, Python y Rust han sido mis principales herramientas.
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([tu enlace])
-[![Correo](https://img.shields.io/badge/Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:[tu correo])
-[![Portafolio](https://img.shields.io/badge/Portafolio-0A0A0A?style=flat&logo=firefox&logoColor=white)]([tu enlace])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/davidfernandezbrito/])
+[![Correo](https://img.shields.io/badge/Correo-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:[david.fernandezbrito01@gmail.com])
+[![Portafolio](https://img.shields.io/badge/Portafolio-0A0A0A?style=flat&logo=firefox&logoColor=white)]([https://monopolo-magnetico.github.io/Portafolio_David_Fernandez_Brito/])
 
 Si algo de lo anterior te suena interesante, escríbeme para que hablemos con lujo de detalle :) 
 
